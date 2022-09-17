@@ -10,3 +10,6 @@ No fritzing crie o circuito conforme a figura abaixo:<br>
 Na programação em texto estruturado faça assim:<br>
 <a href = "final_extensaoIOT.ino">Clique aqui para o código</a><br>
 
+Arquivo para biblioteca sensor de temperatura e umidade:<br>
+<a href = "DHT-sensor-library-master.rar">Clique aqui para o arquivo</a><br>
+
